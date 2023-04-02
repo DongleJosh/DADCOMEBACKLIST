@@ -41,3 +41,6 @@ If you have any questions, please contact me using the following info:
 
 - [GitHub](https://github.com/DongleJosh)
 - [Email](JoshuaJamesRomani@gmail.com)
+ 
+ ![image](https://user-images.githubusercontent.com/119004668/229330802-19724d59-a499-4e2a-b8f1-6d3f9a3a6901.png)
+
